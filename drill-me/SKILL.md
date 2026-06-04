@@ -173,6 +173,7 @@ Adapt the levels to the topic. Typical structure:
 ## Example Start
 
 User: `/learn TCP/IP`
+User: `/drill-me TCP/IP`
 
 Claude:
 > Great! Before we begin: **How much do you already know about TCP/IP?**
